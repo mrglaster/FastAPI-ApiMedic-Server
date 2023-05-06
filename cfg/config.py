@@ -1,4 +1,4 @@
-# We currently recommend using Python 3.5
+
 
 username = "USE YOUR OWN!" # Here enter your API user name
 password = "USE YOUR OWN!" # Here enter your API password
